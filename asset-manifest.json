@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1693bc9e.css",
+    "main.js": "/static/js/main.df2f2749.js",
+    "static/media/2.jpg": "/static/media/2.b7c787561e6bdbbcc898.jpg",
+    "static/media/get-inspired-travel-journaling-1-16x9_jpg": "/static/media/get-inspired-travel-journaling-1-16x9_19841a5e2751462ba1f483cbeb55032b.b7c787561e6bdbbcc898.jpg",
+    "static/media/5.jpg": "/static/media/5.d83323311a7b1424d6b4.jpg",
+    "static/media/6.jpg": "/static/media/6.5e5f62730e49e85ca60d.jpg",
+    "static/media/4.jpg": "/static/media/4.a3df24af800b8dd8f8f2.jpg",
+    "static/media/3.jpg": "/static/media/3.d17fc2715d250bc36e81.jpg",
+    "static/media/1.jpg": "/static/media/1.3ea804b15a4466039df6.jpg",
+    "static/media/images.jpg": "/static/media/images.8cf97e5cc4eb79c88228.jpg",
+    "index.html": "/index.html",
+    "main.1693bc9e.css.map": "/static/css/main.1693bc9e.css.map",
+    "main.df2f2749.js.map": "/static/js/main.df2f2749.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1693bc9e.css",
+    "static/js/main.df2f2749.js"
+  ]
+}
